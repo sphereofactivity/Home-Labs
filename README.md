@@ -7,4 +7,6 @@ A visual and written representation to my personal home lab used in my home envi
 ## Quick links around the repo
 If you'd like to view a network diagram of the lab, this can [be viewed through this hyperlink to the network diagram.](https://github.com/sphereofactivity/Home-Labs/blob/main/Network%20Overview.png)
 
+If you'd like to learn more about the overview of the OPNsense fire wall configuration, this can [be viewed through this hyperlink to the network diagram.](https://github.com/sphereofactivity/Home-Labs/blob/main/Firewall/Firewall-Opnsense.md)
+
 Thanks for reading for far!
