@@ -1,7 +1,7 @@
 # VPN Conection
 
 ## What's in this document?
-This document covers the current set up and configuration of the Tailscale VPN to access the network. ]
+This document covers the current set up and configuration of the Tailscale VPN to access the network. 
 
 ## Using a VPN to gain access to a LAN network
 Tailscale provides a unique VPN service that when used as a subnet router, allows access to a LAN by connecting clients. In this case, I've used Tailscale with my endpoint device that I actively use and on a single LXC container running Debian linux within the server. 
