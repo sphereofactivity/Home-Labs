@@ -9,4 +9,6 @@ If you'd like to view a network diagram of the lab, this can [be viewed through 
 
 If you'd like to learn more about the overview of the OPNsense fire wall configuration, this can [be viewed through this hyperlink to the firewall overview.](https://github.com/sphereofactivity/Home-Labs/blob/main/Firewall/Firewall-Opnsense.md)
 
+If you'd like to learn more about how VPN access into the server works, this can [be viewed through this hyperlink to the firewall overview.]([https://github.com/sphereofactivity/Home-Labs/blob/main/Firewall/Firewall-Opnsense.md](https://github.com/sphereofactivity/Home-Labs/blob/main/VPN%20Access/vpn.md))
+
 Thanks for reading for far!
