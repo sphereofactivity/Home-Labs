@@ -10,7 +10,7 @@ This allows me to access the LAN by only allowing approved devices connected to 
 
 
 ## Diagram of how the tailscale connection works:
-![Tailscale VPN Access](/Home-Labs/VPN%20Access/img/Tailscale%20Subnet%20Router%20Map.png)
+![Tailscale VPN Access](./img/Tailscale%20Subnet%20Router%20Map.png)
 
 ## How it works?
 Access is configured by setting up a subnet router within the LAN portion of the server. Behind the firewall is the subnet 192.168.1.0/24 which holds a Debian LXC containing a Tailscale client. We then configure the Tailscale client to advertise routes to 192.168.1.0/24 and allow other Tailscale clients within the Tailnet to receive access which can then be connected to and used to reach services within the 192.168.1.0/24 subnet.
